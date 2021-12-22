@@ -31,7 +31,6 @@ class AppPages {
           bindings: [
             HomeBinding(),
           ],
-          title: null,
           children: [
             GetPage(
               preventDuplicates: true,
@@ -40,7 +39,6 @@ class AppPages {
               bindings: [
                 CartBinding(),
               ],
-              title: null,
             ),
             GetPage(
               preventDuplicates: true,
@@ -49,7 +47,6 @@ class AppPages {
               bindings: [
                 NewsBinding(),
               ],
-              title: null,
             ),
             GetPage(
               preventDuplicates: true,
@@ -58,7 +55,6 @@ class AppPages {
               bindings: [
                 SearchBinding(),
               ],
-              title: null,
             )
           ],
         ),
