@@ -8,8 +8,8 @@ import '../pages/search/search_binding.dart';
 import '../pages/search/search_view.dart';
 import '../pages/home/home_binding.dart';
 import '../pages/home/home_view.dart';
-import '../layouts/root/root_binding.dart';
-import '../layouts/root/root_view.dart';
+import '../pages/root/root_binding.dart';
+import '../pages/root/root_view.dart';
 
 part 'app_routes.dart';
 

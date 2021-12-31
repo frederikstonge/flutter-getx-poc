@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../widgets/cart_item.dart';
-import '../models/lineitem.dart';
+import '../models/line_item.dart';
 
 class CartService extends GetxService {
   static CartService get to => Get.find();
